@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="pls_wait_txt">Please wait while pictures are loaded</string>
+</resources>
